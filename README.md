@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Devesh Sangwan! 👋 </h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshsangwan&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321" width="55%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshsangwan&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321" width="60%">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&layout=compact&theme=radical" />
