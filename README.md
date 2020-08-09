@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Devesh Sangwan! 👋 </h1>
 <h1 align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=deveshsangwan&color=brightgreen&center&color=fe428e" alt="Profile Views"  width="150">
+    <img src="https://komarev.com/ghpvc/?username=deveshsangwan&color=brightgreen&center&color=fe428e" alt="Profile Views"  width="130">
  </h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
