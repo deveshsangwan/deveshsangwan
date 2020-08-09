@@ -8,7 +8,7 @@
 </a>
 
 <a>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&theme=radical" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&theme=radical&layout=compact" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
