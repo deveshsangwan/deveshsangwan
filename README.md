@@ -11,10 +11,9 @@
 <a href="https://github.com/deveshsangwan/Image-Scraper">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=image-scraper&theme=radical" />
 </a>
+<p>&nbsp;</p>
 
-
-
-## 🌐 **Reach out to me:** ️
+## 🌐 Reach out to me:
 
 [<img src="https://img.shields.io/badge/LinkedIn-devesh--sangwan-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-dev.sangwan2001@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
