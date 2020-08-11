@@ -12,7 +12,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=image-scraper&theme=radical" />
 </a>
 
-## &nbsp;
+
+&nbsp;
 
 ## 🌐 Reach out to me:
 
