@@ -12,6 +12,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=image-scraper&theme=radical" />
 </a>
 
+## 🌐 **Reach out to me:** ️
+
+[<img src="https://img.shields.io/badge/LinkedIn-devesh--sangwan--4a6646165-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-dev.sangwan2001@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
+
 <!--
 **deveshsangwan/deveshsangwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
