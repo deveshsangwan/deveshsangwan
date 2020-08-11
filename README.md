@@ -12,7 +12,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=image-scraper&theme=radical" />
 </a>
 
-<br>
+
+
 ## 🌐 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-devesh--sangwan-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
