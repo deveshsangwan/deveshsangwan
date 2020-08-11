@@ -13,9 +13,9 @@
 </a>
 
 
-&nbsp;
+&nbsp; &nbsp; &nbsp;
 
-## 🌐 Reach out to me:
+## 🌐 **Reach out to me:**
 
 [<img src="https://img.shields.io/badge/LinkedIn-devesh--sangwan-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-dev.sangwan2001@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
