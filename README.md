@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Devesh Sangwan! 👋 </h1>
+
+---
+
 <h1 align="left"> 
     <img src="https://komarev.com/ghpvc/?username=deveshsangwan&color=brightgreen&center&color=fe428e" alt="Profile Views"  width="130">
  </h1>
@@ -11,6 +14,8 @@
 <a href="https://github.com/deveshsangwan/Image-Scraper">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=image-scraper&theme=radical" />
 </a>
+
+---
 
 ## 🌐 **Reach out to me:**
 
