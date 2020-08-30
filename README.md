@@ -1,10 +1,12 @@
 <h1 align="center">Hi there, I'm Devesh Sangwan! 👋🏼 </h1>
 
 ---
+<!--
 <h1 align="left"> 
     <img src="https://komarev.com/ghpvc/?username=deveshsangwan&color=brightgreen&center&color=fe428e" alt="Profile Views" width="130">
  </h1>
 <a>
+-->
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshsangwan&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" >
 </a>
 <a>
