@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=deveshsangwan&color=brightgreen&center&color=fe428e" alt="Profile Views" width="130">
  </h1>
 <a>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=deveshsangwan&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" width="55%">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=deveshsangwan&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" width="50%">
 </a>
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&layout=compact&theme=radical&hide=makefile" />
