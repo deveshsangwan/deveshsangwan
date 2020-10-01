@@ -8,7 +8,7 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=deveshsangwan&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" width="59%">
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&theme=radical&langs_count=10&layout=compact" width="36%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&theme=radical&langs_count=10&layout=compact" width="36%"/>
 </a>
 <a href="https://github.com/deveshsangwan/Coronavirus-Voice-Assistant">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=coronavirus-voice-assistant&theme=radical" />
