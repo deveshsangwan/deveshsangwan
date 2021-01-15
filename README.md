@@ -28,7 +28,7 @@
 [gmail]: mailto:dev.sangwan2001@gmail.com
 
 ## My Portfolio
-[![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://deveshsangwan.github.io/shots/)
+[![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://shots.deveshsangwan.ninja/)
 <!--
 **deveshsangwan/deveshsangwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
