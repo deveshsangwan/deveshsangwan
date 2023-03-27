@@ -28,8 +28,8 @@
 [gmail]: mailto:dev.sangwan2001@gmail.com
 
 ## My Portfolio
-[![Personal](https://img.shields.io/badge/Personal-Portfolio-orange?style=for-the-badge)](https://deveshsangwan.me/)
-[![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://shots.deveshsangwan.me/)
+[![Personal](https://img.shields.io/badge/Personal-Portfolio-orange?style=for-the-badge)](https://nextjs-notion-starter-e52g31se8-deveshsangwan.vercel.app/)
+[![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://deveshsangwan.github.io/shots/)
 <!--
 **deveshsangwan/deveshsangwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
