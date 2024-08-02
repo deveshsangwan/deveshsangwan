@@ -10,7 +10,7 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&theme=radical&langs_count=10&layout=compact&exclude_repo=Skin-lesions-classification,Transportation-Mode-Detection" width="36%"/>
 </a>
-<a href="https://github.com/deveshsangwan/Coronavirus-Voice-Assistant">  
+<a href="https://github.com/deveshsangwan/cricketScoreApi">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=cricketScoreApi&theme=radical" />
 </a>
 <a href="https://github.com/deveshsangwan/Image-Scraper">
