@@ -1,46 +1,58 @@
-<h1 align="center">Hi there, I'm Devesh Sangwan! 👋🏼 </h1>
+## Hey! I'm Devesh
 
----
-<h1 align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=deveshsangwan&color=brightgreen&center&color=fe428e" alt="Profile Views" width="130">
- </h1>
-<a>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=deveshsangwan&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" width="59%">
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsangwan&theme=radical&langs_count=10&layout=compact&exclude_repo=Skin-lesions-classification,Transportation-Mode-Detection" width="36%"/>
-</a>
-<a href="https://github.com/deveshsangwan/cricketScoreApi">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=cricketScoreApi&theme=radical" />
-</a>
-<a href="https://github.com/deveshsangwan/Image-Scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsangwan&repo=image-scraper&theme=radical" />
-</a>
+I build web apps, realtime tools, and small experiments around product ideas I find interesting.
 
----
+### Quick Facts
 
-## 🌐 **Reach out to me:**
+- Software Engineer at **Paisabazaar**, working around **TypeScript, React, Node.js, and performance**.
+- Usually reaching for **TypeScript**, **Next.js**, **React**, **Node.js**, **Docker**, and **Vercel**.
+- I also take photos sometimes: **[shots.deveshsangwan.com](https://shots.deveshsangwan.com)**.
 
-[<img src="https://img.shields.io/badge/LinkedIn-devesh--sangwan-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-dev.sangwan2001@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,docker,vercel&perline=6" alt="TypeScript, Next.js, React, Node.js, Docker, and Vercel" />
+</p>
 
-[linkedin]: https://www.linkedin.com/in/devesh-sangwan-4a6646165/
-[gmail]: mailto:dev.sangwan2001@gmail.com
+##
 
-## My Portfolio
-[![Personal](https://img.shields.io/badge/Personal-Portfolio-orange?style=for-the-badge)](https://nextjs-notion-starter-e52g31se8-deveshsangwan.vercel.app/)
-[![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://deveshsangwan.github.io/shots/)
-<!--
-**deveshsangwan/deveshsangwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://streak-stats.demolab.com?user=deveshsangwan&theme=dark&hide_border=true&card_width=1008&card_height=100&hide_current_streak=true&hide_longest_streak=true" width="100%" alt="GitHub contribution streak stats" />
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[Investment Sync](https://github.com/deveshsangwan/investment-sync)**  
+Private portfolio tracker for Indian and US investments, with a web app, view-only mobile app, importers, auth, and analytics.
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-111111?style=flat&logo=expo&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=tanstack&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111111)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=111111)
+
+**[Shots Astro](https://github.com/deveshsangwan/shots-astro)**  
+Photography portfolio powering [shots.deveshsangwan.com](https://shots.deveshsangwan.com), with content collections, optimized images, search, and GitHub Pages deployment.
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=111111)
+![Pagefind](https://img.shields.io/badge/Pagefind-111111?style=flat)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
+
+**[Cricket Score](https://github.com/deveshsangwan/cricketScoreApi)**  
+Realtime cricket score monorepo with a typed frontend/backend, tRPC APIs, SSE updates, scraping, persistence, and shared types.
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=tanstack&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+##
+
+### Connect with me
+
+[Portfolio](https://deveshsangwan.com) ·
+[Photography](https://shots.deveshsangwan.com) ·
+[LinkedIn](https://www.linkedin.com/in/devesh-sangwan-4a6646165/) ·
+[Email](mailto:dev.sangwan2001@gmail.com)
